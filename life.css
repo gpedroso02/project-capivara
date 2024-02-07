@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(11, 4, 77);
+}
+header{
+ color: aquamarine;
+}
+h3{
+    color:aliceblue;
+}
+img{
+    width: 25cm;
+    height: 10cm;
+
+}
+.center
+{
+    text-align: center;
+}
+
+p{
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+    padding: 16px  ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
